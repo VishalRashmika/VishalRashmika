@@ -11,7 +11,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VishalRashmika&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalRashmika&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://activity-graph.herokuapp.com/graph?username=VishalRashmika&theme=onedark&hide_border=true" width="100%"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=VishalRashmika&theme=onedark&bg_color=20232a&hide_border=true" width="100%"/>
 <br/>
 
 ## 🏆 GitHub Trophies
