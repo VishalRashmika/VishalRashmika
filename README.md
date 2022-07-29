@@ -69,7 +69,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalRashmika&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VishalRashmika&theme=dracula)
 <!-- ![](https://activity-graph.herokuapp.com/graph?username=VishalRashmika&theme=onedark&bg_color=20232a&hide_border=true) -->
-<img src="https://activity-graph.herokuapp.com/graph?username=VishalRashmika&theme=onedark&bg_color=20232a&hide_border=true" width="50%"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=VishalRashmika&theme=onedark&bg_color=20232a&hide_border=true" width="100%"/>
 <br/>
 
 ## 🏆 Trophies
