@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently a student.<br>👯 I’m looking to collaborate on FOSS projects<br>🌱 I’m currently learning Data Structures and Full Stack<br>💬 Ask me about Anything
 
-## 🌐 Socials:
+## Socials:
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.&logoColor=white)](https://vishalrashmika.ga)
 [![Blog](https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=About.&logoColor=white)](https://vishalrashmika-blog.ml)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-rashmika-838985228) 
@@ -13,7 +13,7 @@
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18637594/vishalrashmika) 
 <!-- https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white  -->
 
-# 💻 Skills:
+# Skills:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -72,10 +72,10 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=VishalRashmika&theme=onedark&bg_color=20232a&hide_border=true" width="100%"/>
 <br/>
 
-## 🏆 Trophies
+## Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VishalRashmika&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-## ✍️ Visitors Count 
+## Visitors Count 
 ![](https://komarev.com/ghpvc/?username=VishalRashmika&style=for-the-badge)
 
 <!--<img align="left" src = "https://profile-counter.glitch.me/VishalRashmika/count.svg" alt ="Loading">
