@@ -75,6 +75,9 @@
 ## Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VishalRashmika&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
+## Achievements
+[![@vishalrashmika's Holopin board](https://holopin.me/vishalrashmika)](https://holopin.io/@vishalrashmika)
+
 ## Visitors Count 
 ![](https://komarev.com/ghpvc/?username=VishalRashmika&style=for-the-badge)
 
