@@ -2,7 +2,7 @@
 🔭 I’m currently a student.<br>👯 I’m looking to collaborate on FOSS projects<br>🌱 I’m currently learning Data Structures and Full Stack<br>💬 Ask me about Anything
 
 ## Socials:
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.&logoColor=white)](https://vishalrashmika.ga)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.&logoColor=white)](https://vishalrashmika.github.io/)
 [![Blog](https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=About.&logoColor=white)](https://vishalrashmika-blog.cf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-rashmika-838985228) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Vishal_Rashmika)
