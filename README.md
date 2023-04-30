@@ -3,13 +3,13 @@
 
 ## Socials:
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.&logoColor=white)](https://vishalrashmika.github.io/)
-[![Blog](https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=About.&logoColor=white)](https://vishalrashmika-blog.cf)
+[![Blog](https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=About.&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-rashmika-838985228) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Vishal_Rashmika)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/j.m.v.r.p) 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](htttps://discord.gg/Akira-Arashikage#2618) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@VishalRashmika) 
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/j.m.v.r.p) 
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](#) 
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18637594/vishalrashmika) 
 <!-- https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white  -->
 
@@ -86,3 +86,17 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=VishalRashmika&icon=0&color=0)](https://visitcount.itsvg.in)
 -->
+
+
+
+
+
+<!--
+IF UPDATING THE SOCIAL USERNAME CHANGES TO BE DONE:
+    Resume
+    personal web
+    Life Via Lens
+    Blog
+    github homepage(banner)
+    other platforms
+--->
