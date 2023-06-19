@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently a student.<br>👯 I’m looking to collaborate on FOSS projects<br>🌱 I’m currently learning Data Structures and Full Stack<br>💬 Ask me about Anything
+🔭 I’m a student.<br>
+👯 I’m looking to collaborate on FOSS projects<br>
+💬 Ask me about Anything
 
 ## Socials:
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.&logoColor=white)](https://vishalrashmika.github.io/)
