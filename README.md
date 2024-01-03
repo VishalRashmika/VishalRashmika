@@ -4,14 +4,14 @@
 💬 Ask me about Anything
 
 ## Socials:
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.&logoColor=white)](https://vishalrashmika.github.io/)
-[![Blog](https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=About.&logoColor=white)](https://vishalrashmikablog.netlify.app/)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.&logoColor=white)](https://vishalrashmika.me/)
+[![Blog](https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=About.&logoColor=white)](https://blog.vishalrashmika.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-rashmika-838985228) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Vishal_Rashmika)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/j.m.v.r.p) 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](htttps://discord.gg/Akira-Arashikage#2618) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@VishalRashmika) 
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18637594/vishalrashmika) 
+<!-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](htttps://discord.gg/Akira-Arashikage#2618)  -->
 <!-- [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](#)  -->
 <!-- https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white  -->
 
@@ -82,9 +82,10 @@
 
 ## Visitors Count 
 ![](https://komarev.com/ghpvc/?username=VishalRashmika&style=for-the-badge)
+![](https://wakatime.com/badge/user/f8bbcf9a-9a9c-4c31-a130-ba1738f35cea.svg)
 
 #
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/vishalrashmika)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/vishalrashmika/)
 
 
 <!--<img align="left" src = "https://profile-counter.glitch.me/VishalRashmika/count.svg" alt ="Loading">
