@@ -65,7 +65,7 @@
 <!-- ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)  -->
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VishalRashmika&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
+<!--![](https://github-readme-stats.vercel.app/api?username=VishalRashmika&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)-->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VishalRashmika&theme=dracula&hide_border=true)
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalRashmika&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VishalRashmika&theme=dracula) -->
@@ -74,15 +74,15 @@
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=VishalRashmika&theme=onedark&bg_color=20232a&hide_border=true" width="100%"/>
 <br/> -->
 
-## Trophies
-![](https://github-profile-trophy.vercel.app/?username=VishalRashmika&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+<!--## Trophies-->
+<!--![](https://github-profile-trophy.vercel.app/?username=VishalRashmika&theme=dracula&no-frame=false&no-bg=false&margin-w=4)-->
 
 <!-- ## Achievements -->
 <!-- [![@vishalrashmika's Holopin board](https://holopin.me/vishalrashmika)](https://holopin.io/@vishalrashmika) -->
 
-## Visitors Count 
-![](https://komarev.com/ghpvc/?username=VishalRashmika&style=for-the-badge)
-![](https://wakatime.com/badge/user/f8bbcf9a-9a9c-4c31-a130-ba1738f35cea.svg)
+<!--## Visitors Count -->
+<!--![](https://komarev.com/ghpvc/?username=VishalRashmika&style=for-the-badge)-->
+<!--![](https://wakatime.com/badge/user/f8bbcf9a-9a9c-4c31-a130-ba1738f35cea.svg)-->
 
 #
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/vishalrashmika/)
