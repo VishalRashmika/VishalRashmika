@@ -1,8 +1,3 @@
-# 💫 About Me:
-🔭 I’m a student.<br>
-👯 I’m looking to collaborate on FOSS projects<br>
-💬 Ask me about Anything
-
 ## Socials:
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vishalrashmika.me/)
 [![Blog](https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=About.&logoColor=white)](https://blog.vishalrashmika.me/)
