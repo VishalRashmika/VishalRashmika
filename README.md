@@ -1,8 +1,8 @@
 ## Socials:
 
 ```
-https://vishalrashmika.me/
-https://blog.vishalrashmika.me/
+https://vishalrashmika.com/
+https://blog.vishalrashmika.com/
 https://linkedin.com/in/vishalrashmika
 https://twitter.com/Vishal_Rashmika
 https://instagram.com/j.m.v.r.p
