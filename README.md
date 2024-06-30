@@ -1,18 +1,30 @@
 ## Socials:
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vishalrashmika.me/)
+
+```
+https://vishalrashmika.me/
+https://blog.vishalrashmika.me/
+https://linkedin.com/in/vishalrashmika
+https://twitter.com/Vishal_Rashmika
+https://instagram.com/j.m.v.r.p
+https://medium.com/@VishalRashmika
+https://stackoverflow.com/users/18637594/vishalrashmika
+https://behance.net/vishalrashmika
+```
+
+<!-- [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vishalrashmika.me/)
 [![Blog](https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=About.&logoColor=white)](https://blog.vishalrashmika.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishalrashmika) 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Vishal_Rashmika)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/j.m.v.r.p) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@VishalRashmika) 
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18637594/vishalrashmika) 
-[![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/vishalrashmika)
+[![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/vishalrashmika) -->
 <!-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](htttps://discord.gg/Akira-Arashikage#2618)  -->
 <!-- [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](#)  -->
 <!-- https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white  -->
 
-#
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+<!-- ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -30,7 +42,7 @@
 ![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white) -->
 <!--![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) -->
 <!-- ![Wordpress](https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white) -->
 <!-- ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  -->
@@ -61,9 +73,9 @@
 <!-- ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  -->
 <!-- ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)  -->
 
-# GitHub Stats:
+<!-- # GitHub Stats: -->
 <!--![](https://github-readme-stats.vercel.app/api?username=VishalRashmika&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)-->
-![](https://github-readme-streak-stats.herokuapp.com/?user=VishalRashmika&theme=dracula&hide_border=true)
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=VishalRashmika&theme=dracula&hide_border=true) -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalRashmika&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VishalRashmika&theme=dracula) -->
 <!-- ![](https://activity-graph.herokuapp.com/graph?username=VishalRashmika&theme=onedark&bg_color=20232a&hide_border=true) -->
