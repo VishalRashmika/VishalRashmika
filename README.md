@@ -1,15 +1,13 @@
 ## Socials:
 
-```
-https://vishalrashmika.com/
-https://blog.vishalrashmika.com/
-https://linkedin.com/in/vishalrashmika
-https://twitter.com/Vishal_Rashmika
-https://instagram.com/j.m.v.r.p
-https://medium.com/@VishalRashmika
-https://stackoverflow.com/users/18637594/vishalrashmika
-https://behance.net/vishalrashmika
-```
+[vishalrashmika.com](https://vishalrashmika.com/)
+[Personal blog](https://blog.vishalrashmika.com/)
+[Linkedin](https://linkedin.com/in/vishalrashmika)
+[Twitter](https://twitter.com/Vishal_Rashmika)
+[Instagram](https://instagram.com/j.m.v.r.p)
+[Medium](https://medium.com/@VishalRashmika)
+[Stackoverflow](https://stackoverflow.com/users/18637594/vishalrashmika)
+[Behance](https://behance.net/vishalrashmika)
 
 <!-- [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vishalrashmika.me/)
 [![Blog](https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=About.&logoColor=white)](https://blog.vishalrashmika.me/)
