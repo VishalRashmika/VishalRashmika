@@ -1,13 +1,14 @@
 ## Socials:
 
-[vishalrashmika.com](https://vishalrashmika.com/)
-[Personal blog](https://blog.vishalrashmika.com/)
-[Linkedin](https://linkedin.com/in/vishalrashmika)
-[Twitter](https://twitter.com/Vishal_Rashmika)
-[Instagram](https://instagram.com/j.m.v.r.p)
-[Medium](https://medium.com/@VishalRashmika)
-[Stackoverflow](https://stackoverflow.com/users/18637594/vishalrashmika)
-[Behance](https://behance.net/vishalrashmika)
+- [vishalrashmika.com](https://vishalrashmika.com/)
+- [Personal blog](https://blog.vishalrashmika.com/)
+- [Linkedin](https://linkedin.com/in/vishalrashmika)
+- [Twitter](https://twitter.com/Vishal_Rashmika)
+- [Instagram](https://instagram.com/j.m.v.r.p)
+- [Medium](https://medium.com/@VishalRashmika)
+- [Stackoverflow](https://stackoverflow.com/users/18637594/vishalrashmika)
+- [Behance](https://behance.net/vishalrashmika)
+- ["Buy Me A Coffee"](https://www.buymeacoffee.com/vishalrashmika/)
 
 <!-- [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vishalrashmika.me/)
 [![Blog](https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=About.&logoColor=white)](https://blog.vishalrashmika.me/)
@@ -90,9 +91,9 @@
 <!--## Visitors Count -->
 <!--![](https://komarev.com/ghpvc/?username=VishalRashmika&style=for-the-badge)-->
 <!--![](https://wakatime.com/badge/user/f8bbcf9a-9a9c-4c31-a130-ba1738f35cea.svg)-->
-
+<!--
 #
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/vishalrashmika/)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/vishalrashmika/)-->
 
 
 <!--<img align="left" src = "https://profile-counter.glitch.me/VishalRashmika/count.svg" alt ="Loading">
